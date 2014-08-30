@@ -1,8 +1,5 @@
-org.dita4publishers.common.xslt
+org.dita4publishers.common.xsfo
 ======================
 
-Provides XSLT modules and function libraries appropriate
-for any Open Toolkit transform. Primarily supports the
-D4P map-driven processing framework.
-
-Depends on the org.dita-community-common.xslt plugin <https://github.com/dita-community/org.dita-community.common.xslt>
+Common XSL-FO generation support. This just centralizes the imports of the 
+the org.dita-community.common.xslt XSLT libraries.
